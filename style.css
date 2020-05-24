@@ -30,6 +30,16 @@ p{
 	padding: 5px;
 	text-align: justify;
 }
+
+.p1{
+	background-color: #d49798;
+}
+.p2{
+	background-color: #c24443;
+}
+.p3{
+	background-color: #e4d099;
+}
 .smallbox1{
 	border-bottom: 2px solid black;
 	border-left: 2px solid black;
@@ -73,4 +83,6 @@ h3{
 		margin-top: 20px;
 	}
 }
+
+
 
